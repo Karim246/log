@@ -1,0 +1,351 @@
+[20:28:28] [main/INFO]: Loading Minecraft 1.18.1 with Fabric Loader 0.12.12
+[20:28:28] [ForkJoinPool-1-worker-10/WARN]: The mod "libcd" contains invalid entries in its mod json:
+- Unsupported root entry "licence" at line 9 column 12
+[20:28:28] [main/INFO]: Loading 155 mods:
+	- adorn 3.3.1+1.18.1
+	- advancednetherite 1.4.0-1.18.1
+	- amecsapi 1.3.3+mc1.18-pre1 via backslot
+	- appleskin 2.3.0+mc1.18.1
+	- aqupdgrizzly 1.18-1.2.2
+	- architectury 3.6.15
+	- backslot 1.2.4
+	- balm-fabric 2.4.1+0
+	- bclib 1.3.0
+	- betterend 1.0.1
+	- blue_endless_jankson 1.2.1 via kyrptconfig
+	- blur 2.4.1
+	- breakprogress 1.0.1
+	- capybara 1.0.1
+	- cardinal-components-base 4.0.0 via trinkets
+	- cardinal-components-entity 4.0.0 via trinkets
+	- cloth-basic-math 0.6.0 via cloth-config
+	- cloth-config 6.1.50
+	- com_electronwill_night-config_core 3.6.4 via terrablender
+	- com_electronwill_night-config_toml 3.6.4 via terrablender
+	- com_eliotlash_mclib_mclib 18 via geckolib3
+	- com_eliotlash_molang_molang 18 via geckolib3
+	- com_typesafe_config 1.4.1 via confabricate
+	- confabricate 2.2.0-SNAPSHOT+4.1.1 via croptopia
+	- copperarmorandtools 1.9.2
+	- croptopia 1.8.0
+	- customportalapi 0.0.1-beta47-1.18 via mining_dims
+	- diggusmaximus 1.5.2-1.18
+	- dragonloot 1.0.10
+	- dungeons_arise 2.1.49d-fabric
+	- earthtojavamobs 1.7.4+1.18
+	- enchantinginfuser 3.1.1
+	- expandedstorage 7.3.6
+	- fabric 0.46.4+1.18
+	- fabric-api-base 0.4.2+d7c144a865 via fabric
+	- fabric-api-lookup-api-v1 1.5.3+d7c144a865 via fabric
+	- fabric-biome-api-v1 6.0.2+d7c144a865 via fabric
+	- fabric-blockrenderlayer-v1 1.1.10+3ac43d9565 via fabric
+	- fabric-command-api-v1 1.1.7+d7c144a865 via fabric
+	- fabric-commands-v0 0.2.6+b4f4f6cd65 via fabric
+	- fabric-containers-v0 0.1.19+d7c144a865 via fabric
+	- fabric-content-registries-v0 0.4.8+d7c144a865 via fabric
+	- fabric-crash-report-info-v1 0.1.9+3ac43d9565 via fabric
+	- fabric-dimensions-v1 2.1.10+a1d9bbf565 via fabric
+	- fabric-entity-events-v1 1.4.6+d7c144a865 via fabric
+	- fabric-events-interaction-v0 0.4.17+d7c144a865 via fabric
+	- fabric-events-lifecycle-v0 0.2.9+d7c144a865 via fabric
+	- fabric-game-rule-api-v1 1.0.11+d7c144a865 via fabric
+	- fabric-item-api-v1 1.3.1+691a79b565 via fabric
+	- fabric-item-groups-v0 0.3.6+3ac43d9565 via fabric
+	- fabric-key-binding-api-v1 1.0.9+d7c144a865 via fabric
+	- fabric-keybindings-v0 0.2.7+b4f4f6cd65 via fabric
+	- fabric-language-kotlin 1.7.1+kotlin.1.6.10
+	- fabric-lifecycle-events-v1 1.4.13+713c266865 via fabric
+	- fabric-loot-tables-v1 1.0.9+d7c144a865 via fabric
+	- fabric-mining-level-api-v1 1.0.6+d7c144a865 via fabric
+	- fabric-mining-levels-v0 0.1.11+b4f4f6cd65 via fabric
+	- fabric-models-v0 0.3.4+d7c144a865 via fabric
+	- fabric-networking-api-v1 1.0.19+d7c144a865 via fabric
+	- fabric-networking-v0 0.3.6+b4f4f6cd65 via fabric
+	- fabric-object-builder-api-v1 1.11.4+d7c144a865 via fabric
+	- fabric-object-builders-v0 0.7.12+d7c144a865 via fabric
+	- fabric-particles-v1 0.2.10+526dc1ac65 via fabric
+	- fabric-permissions-api-v0 0.1-SNAPSHOT via universal-graves
+	- fabric-registry-sync-v0 0.9.2+ad01bfbd65 via fabric
+	- fabric-renderer-api-v1 0.4.11+b0b66fc365 via fabric
+	- fabric-renderer-indigo 0.4.15+6825030165 via fabric
+	- fabric-renderer-registries-v1 3.2.10+b4f4f6cd65 via fabric
+	- fabric-rendering-data-attachment-v1 0.3.5+d7c144a865 via fabric
+	- fabric-rendering-fluids-v1 0.1.19+3ac43d9565 via fabric
+	- fabric-rendering-v0 1.1.12+b4f4f6cd65 via fabric
+	- fabric-rendering-v1 1.10.6+713c266865 via fabric
+	- fabric-resource-conditions-api-v1 1.0.2+d7c144a865 via fabric
+	- fabric-resource-loader-v0 0.4.14+713c266865 via fabric
+	- fabric-screen-api-v1 1.0.8+d7c144a865 via fabric
+	- fabric-screen-handler-api-v1 1.1.12+d7c144a865 via fabric
+	- fabric-structure-api-v1 2.1.3+d7c144a865 via fabric
+	- fabric-tag-extensions-v0 1.2.8+d7c144a865 via fabric
+	- fabric-textures-v0 1.0.10+3ac43d9565 via fabric
+	- fabric-tool-attribute-api-v1 1.3.8+fb3b57b465 via fabric
+	- fabric-transfer-api-v1 1.5.9+d7c144a865 via fabric
+	- fabricloader 0.12.12
+	- feature_nbt_deadlock_be_gone $version
+	- forgeconfigapiport 3.1.1
+	- geckolib3 3.0.32
+	- goblintraders 1.4.1
+	- graveyard 1.5
+	- hologram-api 0.2.1+1.18-pre5 via universal-graves
+	- hookshot 24.0
+	- icarus 1.9
+	- inventoryhud 3.4.2
+	- io_leangen_geantyref_geantyref 1.3.11 via confabricate
+	- java 17
+	- kyrptconfig 1.2.4-1.18 via diggusmaximus
+	- libcd 3.0.3+1.16.3 via vanilla-hammers
+	- libzoomer 0.3.0+1.17.1 via okzoomer
+	- magna 1.7.0-1.18-pre1 via vanilla-hammers
+	- maybe-data 1.0.1-1.17 via vanilla-hammers
+	- midnightlib 0.3.1 via blur
+	- minecraft 1.18.1
+	- mining_dims 1.3.0
+	- modmenu 3.0.1 via vanilla-hammers
+	- mostructures 1.3.0-pre1+1.18
+	- mousetweaks 2.22
+	- ninjaphenix_container_lib 1.2.10
+	- no_null_processors 2.0.1+1.18.1
+	- notenoughanimations 1.4.0
+	- nukes 1.0.1
+	- okzoomer 5.0.0-beta.3+1.17.1
+	- omega-config 1.2.2-1.18.1 via graveyard
+	- org_aperlambda_lambdajcommon 1.8.1 via spruceui
+	- org_jetbrains_kotlin_kotlin-reflect 1.6.10 via fabric-language-kotlin
+	- org_jetbrains_kotlin_kotlin-stdlib 1.6.10 via fabric-language-kotlin
+	- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.6.10 via fabric-language-kotlin
+	- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.6.10 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.5.2 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.5.2 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.3.1 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.3.1 via fabric-language-kotlin
+	- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.3.1 via fabric-language-kotlin
+	- org_quiltmc_quilt-json5 1.0.0 via okzoomer
+	- org_spongepowered_configurate-core 4.1.1 via confabricate
+	- org_spongepowered_configurate-extra-dfu4 4.1.1 via confabricate
+	- org_spongepowered_configurate-gson 4.1.1 via confabricate
+	- org_spongepowered_configurate-hocon 4.1.1 via confabricate
+	- packet_tweaker 0.2.0+1.18-pre1 via polymer
+	- placeholder-api 1.1.3+1.17.1 via universal-graves
+	- polymer 0.2.0-beta.21+1.18.1 via universal-graves
+	- polymer-legacy 0.1.9+0.2.0-beta.21+1.18.1 via polymer
+	- pugh_lib 1.2.15 via mining_dims
+	- puzzleslib 3.1.3
+	- quartzelv 2.1.0+1.18
+	- repurposed_structures 3.3.7+1.18.1
+	- roughlyenoughitems 7.2.418
+	- satin 1.7.0 via blur
+	- server_translations_api 1.4.8+1.18-pre1 via universal-graves
+	- sgui 1.0.0-rc6+1.18-pre5 via universal-graves
+	- simple_shelves 1.0.4
+	- slotlink 4.2.1
+	- spruceui 3.3.0+1.17 via okzoomer
+	- static-content 1.0.2-1.16.2 via vanilla-hammers
+	- staticdata 1.1.2 via static-content
+	- terrablender 1.1.0.73
+	- thonkutil 1.3 via goblintraders
+	- torohealth 1.18-fabric-2
+	- towers_of_the_wild_reworked 2.1.1
+	- tradingpost 3.1.2
+	- trashslot 11.0.1
+	- trinkets 3.2.0
+	- universal-graves 2.0.0-rc.1+1.18.1
+	- vanilla-hammers 3.2.0-1.18.1
+	- visualworkbench 3.1.0
+	- waystones 2.4.1
+	- wthit 4.5.1
+	- xaerominimap 22.1.2
+[20:28:28] [main/WARN]: Mod `dungeons_arise` (2.1.49d-fabric) does not respect SemVer - comparison support is limited.
+[20:28:28] [main/WARN]: Mod `feature_nbt_deadlock_be_gone` ($version) does not respect SemVer - comparison support is limited.
+[20:28:28] [main/WARN]: Mod `polymer-legacy` (0.1.9+0.2.0-beta.21+1.18.1) does not respect SemVer - comparison support is limited.
+[20:28:28] [main/WARN]: Mod `terrablender` (1.1.0.73) uses more dot-separated version components than SemVer allows; support for this is currently not guaranteed.
+[20:28:28] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/Karim%20Zerai/AppData/Roaming/.minecraft/libraries/net/fabricmc/sponge-mixin/0.10.7+mixin.0.8.4/sponge-mixin-0.10.7+mixin.0.8.4.jar Service=Knot/Fabric Env=CLIENT
+[20:28:29] [main/INFO]: Compatibility level set to JAVA_16
+[20:28:29] [main/INFO]: Compatibility level set to JAVA_17
+[20:28:29] [main/WARN]: Error loading class: net/kyrptonaught/inventorysorter/client/SortButtonWidget (java.lang.ClassNotFoundException: net/kyrptonaught/inventorysorter/client/SortButtonWidget)
+[20:28:29] [main/WARN]: Error loading class: ru/bclib/api/TagAPI$TagNamed (java.lang.ClassNotFoundException: ru/bclib/api/TagAPI$TagNamed)
+[20:28:29] [main/WARN]: Error loading class: ru/bclib/api/TagAPI$TagNamed (java.lang.ClassNotFoundException: ru/bclib/api/TagAPI$TagNamed)
+[20:28:30] [main/WARN]: Method overwrite conflict for getStructureSpawns in graveyard.mixins.json:NoiseChunkGeneratorMixin, previously written by net.aurelj.dungeons_arise.mixin.NoiseChunkGeneratorMixin. Skipping method.
+[20:28:30] [main/WARN]: Error loading class: ru/bclib/api/TagAPI (java.lang.ClassNotFoundException: ru/bclib/api/TagAPI)
+[20:28:30] [main/ERROR]: Minecraft has crashed!
+net.fabricmc.loader.impl.FormattedException: java.lang.ExceptionInInitializerError
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:610) ~[fabric-loader-0.12.12.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:77) [fabric-loader-0.12.12.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.12.12.jar:?]
+Caused by: java.lang.ExceptionInInitializerError
+	at net.minecraft.class_5871.method_33968(class_5871.java:16) ~[client-intermediary.jar:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder.mapCodec(RecordCodecBuilder.java:76) ~[datafixerupper-4.0.26.jar:?]
+	at net.minecraft.class_5871.<clinit>(class_5871.java:12) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2939.<clinit>(class_2939.java:31) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5463.<clinit>(class_5463.java:18) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30572(class_5458.java:46) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30566(class_5458.java:78) ~[client-intermediary.jar:?]
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[?:?]
+	at net.minecraft.class_5458.<clinit>(class_5458.java:77) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2378.<clinit>(class_2378.java:269) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2966.method_12851(class_2966.java:49) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:155) ~[fabric-loader-0.12.12-1.18.1.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:608) ~[fabric-loader-0.12.12.jar:?]
+	... 2 more
+Caused by: java.lang.RuntimeException: Mixin transformation of net.minecraft.class_2283 failed
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:252) ~[fabric-loader-0.12.12.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:150) ~[fabric-loader-0.12.12.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:155) ~[fabric-loader-0.12.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at net.minecraft.class_5872.<clinit>(class_5872.java:9) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5871.method_33968(class_5871.java:16) ~[client-intermediary.jar:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder.mapCodec(RecordCodecBuilder.java:76) ~[datafixerupper-4.0.26.jar:?]
+	at net.minecraft.class_5871.<clinit>(class_5871.java:12) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2939.<clinit>(class_2939.java:31) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5463.<clinit>(class_5463.java:18) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30572(class_5458.java:46) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30566(class_5458.java:78) ~[client-intermediary.jar:?]
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[?:?]
+	at net.minecraft.class_5458.<clinit>(class_5458.java:77) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2378.<clinit>(class_2378.java:269) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2966.method_12851(class_2966.java:49) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:155) ~[fabric-loader-0.12.12-1.18.1.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:608) ~[fabric-loader-0.12.12.jar:?]
+	... 2 more
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:392) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:247) ~[fabric-loader-0.12.12.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:150) ~[fabric-loader-0.12.12.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:155) ~[fabric-loader-0.12.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at net.minecraft.class_5872.<clinit>(class_5872.java:9) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5871.method_33968(class_5871.java:16) ~[client-intermediary.jar:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder.mapCodec(RecordCodecBuilder.java:76) ~[datafixerupper-4.0.26.jar:?]
+	at net.minecraft.class_5871.<clinit>(class_5871.java:12) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2939.<clinit>(class_2939.java:31) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5463.<clinit>(class_5463.java:18) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30572(class_5458.java:46) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30566(class_5458.java:78) ~[client-intermediary.jar:?]
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[?:?]
+	at net.minecraft.class_5458.<clinit>(class_5458.java:77) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2378.<clinit>(class_2378.java:269) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2966.method_12851(class_2966.java:49) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:155) ~[fabric-loader-0.12.12-1.18.1.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:608) ~[fabric-loader-0.12.12.jar:?]
+	... 2 more
+Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinPreProcessorException: Attach error for betterend.mixins.common.json:ChorusPlantBlockMixin during activity: [Transform -> Method be_getStateForPlacement(Lnet/minecraft/class_1750;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V -> GETSTATIC -> ru/bclib/api/TagAPI::BLOCK_END_GROUND:Lru/bclib/api/TagAPI$TagNamed;]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attach(MixinPreProcessorStandard.java:313) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.createContextFor(MixinPreProcessorStandard.java:277) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.createContextFor(MixinInfo.java:1289) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:292) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:247) ~[fabric-loader-0.12.12.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:150) ~[fabric-loader-0.12.12.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:155) ~[fabric-loader-0.12.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at net.minecraft.class_5872.<clinit>(class_5872.java:9) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5871.method_33968(class_5871.java:16) ~[client-intermediary.jar:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder.mapCodec(RecordCodecBuilder.java:76) ~[datafixerupper-4.0.26.jar:?]
+	at net.minecraft.class_5871.<clinit>(class_5871.java:12) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2939.<clinit>(class_2939.java:31) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5463.<clinit>(class_5463.java:18) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30572(class_5458.java:46) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30566(class_5458.java:78) ~[client-intermediary.jar:?]
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[?:?]
+	at net.minecraft.class_5458.<clinit>(class_5458.java:77) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2378.<clinit>(class_2378.java:269) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2966.method_12851(class_2966.java:49) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:155) ~[fabric-loader-0.12.12-1.18.1.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:608) ~[fabric-loader-0.12.12.jar:?]
+	... 2 more
+Caused by: java.lang.RuntimeException: java.lang.ClassNotFoundException: ru.bclib.api.TagAPI
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.transformMemberReference(MixinPreProcessorStandard.java:783) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.transformField(MixinPreProcessorStandard.java:774) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.transform(MixinPreProcessorStandard.java:737) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attach(MixinPreProcessorStandard.java:307) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.createContextFor(MixinPreProcessorStandard.java:277) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.createContextFor(MixinInfo.java:1289) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:292) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:247) ~[fabric-loader-0.12.12.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:150) ~[fabric-loader-0.12.12.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:155) ~[fabric-loader-0.12.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at net.minecraft.class_5872.<clinit>(class_5872.java:9) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5871.method_33968(class_5871.java:16) ~[client-intermediary.jar:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder.mapCodec(RecordCodecBuilder.java:76) ~[datafixerupper-4.0.26.jar:?]
+	at net.minecraft.class_5871.<clinit>(class_5871.java:12) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2939.<clinit>(class_2939.java:31) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5463.<clinit>(class_5463.java:18) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30572(class_5458.java:46) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30566(class_5458.java:78) ~[client-intermediary.jar:?]
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[?:?]
+	at net.minecraft.class_5458.<clinit>(class_5458.java:77) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2378.<clinit>(class_2378.java:269) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2966.method_12851(class_2966.java:49) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:155) ~[fabric-loader-0.12.12-1.18.1.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:608) ~[fabric-loader-0.12.12.jar:?]
+	... 2 more
+Caused by: java.lang.ClassNotFoundException: ru.bclib.api.TagAPI
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.transformMemberReference(MixinPreProcessorStandard.java:783) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.transformField(MixinPreProcessorStandard.java:774) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.transform(MixinPreProcessorStandard.java:737) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attach(MixinPreProcessorStandard.java:307) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.createContextFor(MixinPreProcessorStandard.java:277) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.createContextFor(MixinInfo.java:1289) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:292) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.10.7+mixin.0.8.4.jar:0.10.7+mixin.0.8.4]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:247) ~[fabric-loader-0.12.12.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:150) ~[fabric-loader-0.12.12.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:155) ~[fabric-loader-0.12.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
+	at net.minecraft.class_5872.<clinit>(class_5872.java:9) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5871.method_33968(class_5871.java:16) ~[client-intermediary.jar:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder.mapCodec(RecordCodecBuilder.java:76) ~[datafixerupper-4.0.26.jar:?]
+	at net.minecraft.class_5871.<clinit>(class_5871.java:12) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2939.<clinit>(class_2939.java:31) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5463.<clinit>(class_5463.java:18) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30572(class_5458.java:46) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5458.method_30566(class_5458.java:78) ~[client-intermediary.jar:?]
+	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[?:?]
+	at net.minecraft.class_5458.<clinit>(class_5458.java:77) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2378.<clinit>(class_2378.java:269) ~[client-intermediary.jar:?]
+	at net.minecraft.class_2966.method_12851(class_2966.java:49) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:155) ~[fabric-loader-0.12.12-1.18.1.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:608) ~[fabric-loader-0.12.12.jar:?]
+	... 2 more
